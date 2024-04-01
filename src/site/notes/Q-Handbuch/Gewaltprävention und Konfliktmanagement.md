@@ -4,13 +4,13 @@
 
 [[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
-GEKO_Team: Kainz, Ristl
+GEKO-Team: Kainz, Ristl
 ##### Ziel: 
 Durch einen niederschwelligen und raschen Zugang zu den Angeboten wird eine konstruktive Konfliktbearbeitung ermöglicht und gegebenenfalls Mobbing beendet. 
 ##### Beteiligte Stellen: 
 Geko_Team, Lehrkräfte (meist Klassenvorstände) 
 ##### Prozessablauf: 
-Das Angebot von GEKO richtet sich an alle Schüler*innen und Lehrer*innen des GRG3. Es ist Teil des Unterstützungssystemes von SchulePlus und bietet einen niederschwelligen und raschen Zugang für Kolleg/innen. 
+Das Angebot von GEKO richtet sich an alle Schülerinnen und Lehrerinnen des GRG3. Es ist Teil des Unterstützungssystemes von SchulePlus und bietet einen niederschwelligen und raschen Zugang für Kolleg/innen. 
 ##### Angebotene Leistungen : 
 * Beratung und Coaching zur Konfliktbearbeitung in Klassen 
 * Coaching und Begleitung bei schwierigen Eltern-Lehrer*innen-Gesprächen 
