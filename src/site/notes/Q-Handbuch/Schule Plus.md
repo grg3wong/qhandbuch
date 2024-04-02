@@ -16,9 +16,9 @@ Diese Fähig- und Fertigkeiten werden in unterschiedlichen Formaten entwickelt u
 * [Peermediatorinnen](Peermediation)
 * [Geko-Team](Gewaltprävention und Konfliktmanagement)
 * #Bildungsberaterinnen
-* Klassenvorstände der 5. – 8. Schulstufe
+* #KV der 5. – 8. Schulstufe
 * Lehrkräfte der Koordinationsgruppe
-* Lehrkräfte der Sozialen Lerngruppe (Super-SOL)
+* Lehrkräfte der Sozialen Lerngruppe ( #SuperSOL)
 #### Prozessablauf: 
 ##### Schülerinnenebene: 
 Jährlich werden für die 1. – 4. Jahrgänge spezielle Tage zur Kommunikation und Gruppendynamik in Form von sehr beliebten KLAKO-tagen abgehalten (KLAKO = Klassengemeinschaft und Kommunikation).
