@@ -8,14 +8,14 @@ Direktion
 Förderung des guten Zusammenlebens und gemeinsamen Lernens, Förderung der Gewaltprävention, Steigerung der Selbst- und Sozialkompetenz, Netzwerkmanagement und Partizipation.
 Diese Fähig- und Fertigkeiten werden in unterschiedlichen Formaten entwickelt und ausgebaut.
 #### Beteiligte Stellen: 
-* Direktion
-* Schulpsychologin
-* Schulärztin
-* Jugendcoach
-* Peercoaches
+* #Direktion
+* #Schulpsychologin
+* #Schulärztin
+* #Jugendcoach
+* #Peercoaches
 * [Peermediatorinnen](Peermediation)
 * [Geko-Team](Gewaltprävention und Konfliktmanagement)
-* Bildungsberaterinnen
+* #Bildungsberaterinnen
 * Klassenvorstände der 5. – 8. Schulstufe
 * Lehrkräfte der Koordinationsgruppe
 * Lehrkräfte der Sozialen Lerngruppe (Super-SOL)
