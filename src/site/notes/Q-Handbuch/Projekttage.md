@@ -8,11 +8,11 @@ Klassenvorstände (KVs) und Administrator
 ##### Ziele des Prozesses 
 Organisation der drei Projekttage in der letzten Schulwoche vor den Sommerferien (Mo-Mi)
 ##### Beteiligte Stellen 
-#KV
+#KV #Administration 
 ##### Zeit
 jährlich
 ##### Prozessablauf
-* Administrator legt Tabelle in Konferenzzimmer auf
+* Administration legt Tabelle in Konferenzzimmer auf
 * KVs tragen sich bei Klassen mit Aktivität
 * Zusätzliche Lehrkräfte tragen sich ein, sofern benötigt
 Versuch für [schulinterne Workshops für Kleingruppen](https://docs.google.com/spreadsheets/d/1OmjK4w-p9SxVneHiwBNlY-7Yd5TX2fwgM7ygIxiGPbw/edit?usp=sharing) haben im Schuljahr 2022/23 stattgefunden, zu wenige Interessenten im Schuljahr 2023/24, 
