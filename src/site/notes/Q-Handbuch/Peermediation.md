@@ -7,7 +7,7 @@ Peercoaches (Kainz, Knaus, Ristl)
 ##### Ziele:
 Schülerinnen lösen mit Hilfe der ausgebildeten Peermediatorinnen ihre Konflikte eigenständig, fair und nachhaltig und fördern dadurch das positive Schulklima.
 ##### Beteiligte Stellen:
-Bestimmte Lehrkräfte (Peercoaches), Peermediatorinnen
+Bestimmte Lehrkräfte ( #Peercoaches), #Peermediatorinnen
 ##### Prozessablauf:
 ###### Mediationsausbildung 1.Lernjahr
 Ausbildung der Schülerinnen (ab der 9. Schulstufe) durch Mag.a Edith Kainz MA, Mag. Reinhard Knaus, Mag. Dominik Ristl
