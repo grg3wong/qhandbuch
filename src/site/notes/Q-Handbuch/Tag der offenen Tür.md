@@ -17,7 +17,7 @@ ab 2025 im Frühjahr: Frühlingsklima erlaubt auch die Integration des Gartens
 * #Direktion beschließt Termin (evtl mit Absprache im #SGA)
 * #Kustos/Webseite veröffentlicht Termin des TDoT auf der Webseite
 * #Direktion benachrichtigt Schulleitungen von Volksschulen bez. Termin
-* ( #Direktion beauftragt Nachdrucken von Informations-Pamphlets)
+* #Direktion beauftragt Nachdrucken von Informations-Pamphlets bei Bedarf
 * TdoT- #Organisator erstellt Planungstabelle zum Eintragen für Lehrkräfte für Unterrichtsstunden der 1. Klassen und Stationen (auch Ressourcen wie Räume und helfende Schülerinnen)
 * TdoT- #Organisator erstellt Flyer mit Übersichtsplan für Besuchende
 * #Direktion holt Informationen zu Anmeldezeiten im Jänner ein
