@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/q-handbuch/gewaltpraevention-und-konfliktmanagement/"}
 ---
 
-[[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
+[[Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
 GEKO-Team: Kainz, Ristl
 ##### Ziel: 
