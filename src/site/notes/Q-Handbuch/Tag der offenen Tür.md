@@ -4,7 +4,7 @@
 
 [[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
-Organisator des Tages der offenen Tür (Valentin Wong) und Direktion
+#Organisator des Tages der offenen Tür (Valentin Wong) und #Direktion
 ##### Ziele des Prozesses 
 Attraktiver Stationenbetrieb und Informationen für Eltern mit Kindern in der 3. und 4. Klasse Volksschule zur Erhöhung der Anmeldezahlen an unserer Schule
 ##### Beteiligte Stellen 
