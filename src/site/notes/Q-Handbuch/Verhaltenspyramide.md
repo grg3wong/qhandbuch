@@ -7,7 +7,7 @@ Alle Lehrkräfte
 #### Ziel:
 Das Fehlverhalten der Schülerinnen wird entlang eines Mehrstufenplanes transparent kommuniziert. Schülerinnen, Eltern und Lehrkräfte haben Orientierung und Klarheit. Die erzieherischen Aufgaben werden vom ganzen Lehrkräfteteam getragen.
 #### Beteiligte Stellen:
-Direktion, Lehrkräfte, Eltern, Schülerinnen
+#Direktion, #Lehrkräfte, #Eltern, #Schülerinnen
 #### Prozessablauf:
 Die Grafik zeigt, wie Lehrkräfte auf disziplinäres Fehlverhalten entlang eines Stufenplanes reagieren.
 Für Schülerinnen, Schüler und deren Eltern bietet der Mehrstufenplan Orientierung und Klarheit.
