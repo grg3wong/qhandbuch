@@ -6,9 +6,9 @@
 ##### Prozessverantwortliche 
 #Organisator des Tages der offenen Tür (Valentin Wong) und #Direktion
 ##### Ziele des Prozesses 
-Attraktiver Stationenbetrieb und Informationen für Eltern mit Kindern in der 3. und 4. Klasse Volksschule zur Erhöhung der Anmeldezahlen an unserer Schule
+Attraktiver Stationenbetrieb und Informationen für #Eltern mit Kindern in der 3. und 4. Klasse Volksschule zur Erhöhung der Anmeldezahlen an unserer Schule
 ##### Beteiligte Stellen 
-Alle Personen im Haus
+Alle Personen im Haus, #Eltern möglicher neuer Schülerinnen
 ##### Zeit
 bisher Ende Oktober, Anfang November
 ab 2025 im Frühjahr: Frühlingsklima erlaubt auch die Integration des Gartens
