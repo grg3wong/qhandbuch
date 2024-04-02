@@ -20,3 +20,4 @@
 - Melden von Abweichungen vom Stundenplan
 - Maturatreffen für potentielle Hagenmüllervorlesungsgäste
 - Wording Notenkonferenzen
+- Übergabeprozess für Übergabe von Klassen wegen Pensionierung/Karenz/…
