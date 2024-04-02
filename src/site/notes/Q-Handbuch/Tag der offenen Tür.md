@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/q-handbuch/tag-der-offenen-tuer/"}
 ---
 
-[[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
+[[Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
 #Organisator des Tages der offenen Tür (Valentin Wong) und #Direktion
 ##### Ziele des Prozesses 
