@@ -8,7 +8,7 @@ GEKO-Team: Kainz, Ristl
 ##### Ziel: 
 Durch einen niederschwelligen und raschen Zugang zu den Angeboten wird eine konstruktive Konfliktbearbeitung ermöglicht und gegebenenfalls Mobbing beendet. 
 ##### Beteiligte Stellen: 
-Geko_Team, Lehrkräfte (meist Klassenvorstände) 
+#GekoTeam, Lehrkräfte (meist #KV ) 
 ##### Prozessablauf: 
 Das Angebot von GEKO richtet sich an alle Schülerinnen und Lehrerinnen des GRG3. Es ist Teil des Unterstützungssystemes von SchulePlus und bietet einen niederschwelligen und raschen Zugang für Kolleg/innen. 
 ##### Angebotene Leistungen : 
