@@ -5,7 +5,7 @@
 ### Prozesse:
 - Onboarding
 - [[Q-Handbuch/Projekttage\|Projekttage]]
-- [[Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4., 5., 6. Klasse)
+- [[Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4., und 6. Klasse)
 - [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
 - Anmelden für die Schule
 - Einsetzen von [[Q-Handbuch/Schule Plus\|Schule Plus]] (Peers, GeKo, Mobbing, ...)
