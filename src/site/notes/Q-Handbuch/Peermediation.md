@@ -10,15 +10,15 @@ Schülerinnen lösen mit Hilfe der ausgebildeten Peermediatorinnen ihre Konflikt
 Bestimmte Lehrkräfte ( #Peercoaches), #Peermediatorinnen
 ##### Prozessablauf:
 ###### Mediationsausbildung 1.Lernjahr
-Ausbildung der Schülerinnen (ab der 9. Schulstufe) durch Mag.a Edith Kainz MA, Mag. Reinhard Knaus, Mag. Dominik Ristl
-Dauer der Ausbildung: 4 Ganztage à 7 Stunden im September/Oktober, möglichst  noch vor den ersten Schularbeiten;
-Unverbindliche Übung Peer-Mediation 2 Stunden wöchentlich  zur Fortsetzung der Ausbildung, für notwendige Fallbesprechungen und zur Teambildung;
+* Ausbildung der Schülerinnen (ab der 9. Schulstufe) durch Mag.a Edith Kainz MA, Mag. Reinhard Knaus, Mag. Dominik Ristl
+* Dauer der Ausbildung: 4 Ganztage à 7 Stunden im September/Oktober, möglichst  noch vor den ersten Schularbeiten;
+* Unverbindliche Übung Peer-Mediation 2 Stunden wöchentlich  zur Fortsetzung der Ausbildung, für notwendige Fallbesprechungen und zur Teambildung;
 ###### Mediationsausbildung 2. Lernjahr
-Unverbindliche Übung Peer-Mediation 2 Stunden pro Monat;
-Fallweise Fortbildung Coaching: 2 Ganztage (je 7 Stunden im Februar);
+* Unverbindliche Übung Peer-Mediation 2 Stunden pro Monat;
+* Fallweise Fortbildung Coaching: 2 Ganztage (je 7 Stunden im Februar);
 ##### Mediationseinsätze
 Grundsätzlich während des Unterrichts möglich, häufig jedoch in sog. Freistunden oder im Anschluss an den Unterricht.
-Im Durchschnitt versäumt ein*e Peermediator*in pro Semester 2 Unterrichtsstunden durch Mediationen.
+Im Durchschnitt versäumt eine Peermediatorin pro Semester 2 Unterrichtsstunden durch Mediationen.
 ##### Kontaktaufnahme mit Peers
 Formlos durch Briefkasten vor dem Konferenzzimmer (Name Kinder, Klasse), für Schülerinnen und Lehrerinnen möglich.
 ##### Weitere Einsätze der Peermediatoren/innen
@@ -28,7 +28,7 @@ Formlos durch Briefkasten vor dem Konferenzzimmer (Name Kinder, Klasse), für Sc
 •	Ev. Einsatz im Schlichtungsrat, falls Peers auch Schülervertreterinnen sind;
 •	Coachinggespräche für einzelne Schüler bei schulischen oder sozialen Problemen;
 ##### Kontinuitätsvereinbarung
-Bei der fixen Anmeldung zur Peermediation im Herbst werden die Kandidat*innen gebeten, eine Kontinuitätszusage abzugeben. Gemeint ist, dass es für das Projekt sinnvoll ist, wenn die Peermediator*innen die erworbenen Qualifikationen der Schulgemeinschaft bis zum ersten Semester der 8.Klasse zur Verfügung stellen. Bei Vorliegen von schwerwiegenden Gründen, kann ein Ausstieg aus dem Projekt mit der Projektleitung vereinbart werden.
+Bei der fixen Anmeldung zur Peermediation im Herbst werden die Kandidatinnen gebeten, eine Kontinuitätszusage abzugeben. Gemeint ist, dass es für das Projekt sinnvoll ist, wenn die Peermediatorinnen die erworbenen Qualifikationen der Schulgemeinschaft bis zum ersten Semester der 8.Klasse zur Verfügung stellen. Bei Vorliegen von schwerwiegenden Gründen, kann ein Ausstieg aus dem Projekt mit der Projektleitung vereinbart werden.
 ##### Evaluation
 Jährlich erfolgt eine quantitative Analyse der Mediationseinsätze, gesondert nach Jahrgängen und Geschlecht.
 
