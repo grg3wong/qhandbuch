@@ -10,7 +10,7 @@ Durch einen niederschwelligen und raschen Zugang zu den Angeboten wird eine kons
 ##### Beteiligte Stellen: 
 #GeKoTeam, Lehrkräfte (meist #KV ) 
 ##### Prozessablauf: 
-Das Angebot von GEKO richtet sich an alle Schülerinnen und Lehrerinnen des GRG3. Es ist Teil des Unterstützungssystemes von SchulePlus und bietet einen niederschwelligen und raschen Zugang für Kolleg/innen. 
+Das Angebot von GeKo richtet sich an alle Schülerinnen und Lehrerinnen des GRg3. Es ist Teil des Unterstützungssystemes von [[Q-Handbuch/Schule Plus\|Schule Plus]] und bietet einen niederschwelligen und raschen Zugang für Kolleg/innen. 
 ##### Angebotene Leistungen : 
 * Beratung und Coaching zur Konfliktbearbeitung in Klassen 
 * Coaching und Begleitung bei schwierigen Eltern-Lehrer*innen-Gesprächen 
