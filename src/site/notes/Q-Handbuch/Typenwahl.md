@@ -3,11 +3,11 @@
 ---
 
 ##### Prozessverantwortliche 
-Direktion und Administrator
+#Direktion und #Administration
 ##### Ziele des Prozesses 
 Information und Anmeldung zu den möglichen Schultypen, die in der 2., 4. und 6. Klasse zur Wahl stehen. 
 ##### Beteiligte Stellen 
-Direktion und Administrator
+#Direktion und #Administration
 ##### Zeit
 * Informationsabende im Dezember
 * Anmeldung 1. Schulfreitag im Jänner
