@@ -8,7 +8,7 @@ Klassenvorstände (KVs) und Administrator
 ##### Ziele des Prozesses 
 Organisation der drei Projekttage in der letzten Schulwoche vor den Sommerferien (Mo-Mi)
 ##### Beteiligte Stellen 
-KVs
+#KV
 ##### Zeit
 jährlich
 ##### Prozessablauf
