@@ -10,7 +10,7 @@ Schülerinnen lösen mit Hilfe der ausgebildeten Peermediatorinnen ihre Konflikt
 Bestimmte Lehrkräfte ( #Peercoaches), #Peermediatorinnen
 ##### Prozessablauf:
 ###### Mediationsausbildung 1.Lernjahr
-* Ausbildung der Schülerinnen (ab der 9. Schulstufe) durch Mag.a Edith Kainz MA, Mag. Reinhard Knaus, Mag. Dominik Ristl
+* Ausbildung der Schülerinnen (ab der 9. Schulstufe) durch Mag.a Edith Kainz MA, Mag. Dominik Ristl
 * Dauer der Ausbildung: 4 Ganztage à 7 Stunden im September/Oktober, möglichst  noch vor den ersten Schularbeiten;
 * Unverbindliche Übung Peer-Mediation 2 Stunden wöchentlich  zur Fortsetzung der Ausbildung, für notwendige Fallbesprechungen und zur Teambildung;
 ###### Mediationsausbildung 2. Lernjahr
