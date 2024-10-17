@@ -14,7 +14,7 @@
 	- [[Q-Handbuch/Peermediation\|Peermediation]]
 	- [[Q-Handbuch/Verhaltenspyramide\|Verhaltenspyramide]]
 - KV-Mappe
-- Erhalten der Zugangsdaten für MS, WebUntis, ...
+- Erhalten der Zugangsdaten für Microsoft Office, [[Q-Handbuch/WebUntis\|WebUntis]], ...
 - Drucken eines Zeugnisses
 - Durchführen einer Veranstaltung im Festsaal (Konzert, HageVO,...)
 - Buchen mehrstündiger Schularbeiten 
