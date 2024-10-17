@@ -3,4 +3,4 @@
 ---
 
 #### Verantwortliche Person
-Fatima Peñalver Conesa
+Fátima Peñalver Conesa
