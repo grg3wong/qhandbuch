@@ -3,7 +3,7 @@
 ---
 
 ##### Prozessverantwortlich:
-Peercoaches (Kainz, Knaus, Ristl)
+Peercoaches (Kainz, Ristl)
 ##### Ziele:
 Schülerinnen lösen mit Hilfe der ausgebildeten Peermediatorinnen ihre Konflikte eigenständig, fair und nachhaltig und fördern dadurch das positive Schulklima. Ist Teil von [[Q-Handbuch/Schule Plus\|Schule Plus]]
 ##### Beteiligte Stellen:
