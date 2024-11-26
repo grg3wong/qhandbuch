@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/q-handbuch/konzertplanung/"}
 ---
 
-[[Q-Handbuch\|Q-Handbuch]]
+[[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
 FachlehrerInnen für Chor und Band
 ##### Ziele des Prozesses 
