@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/q-handbuch/projekttage/"}
 ---
 
-[[Q-Handbuch\|Q-Handbuch]]
+[[Q-Handbuch/Q-Handbuch\|Q-Handbuch]]
 ##### Prozessverantwortliche 
 Klassenvorstände (KVs) und Administrator
 ##### Ziele des Prozesses 
