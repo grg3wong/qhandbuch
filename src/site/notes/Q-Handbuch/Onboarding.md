@@ -23,7 +23,7 @@ Mindestens einmal wöchentlich
 * keine Handynutzung in der Unterstufe außer Stundenplan nachsehen
 * Toiletten beaufsichtigen
 #### Mittagsüberbrückung
-ist nicht Nachmittagsbetreuung ([[TaBeHag\|TaBeHag]])
+ist nicht Nachmittagsbetreuung ([[Q-Handbuch/TaBeHag\|TaBeHag]])
 Anwesenheiten kontrollieren, sofern vorhanden siehe Stundenplan
 
 #### TaBeHa
