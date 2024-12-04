@@ -15,13 +15,7 @@ Mindestens einmal wöchentlich
 * Tafelordner Tafel löschen lassen
 * Tür versperren, falls letzte Einheit im Raum war (siehe WebUntis)
 * Sessel hoch nach letzter Unterrichtseinheit 
-#### Gangaufsicht
-* zu Beginn der Pause starten
-* Ende sobald alle Klassen der Folgestunde Aufsicht haben
-* Fenster schließen
-* keine Handynutzung am Gang für alle
-* keine Handynutzung in der Unterstufe außer Stundenplan nachsehen
-* Toiletten beaufsichtigen
+#### [[Q-Handbuch/Gangaufsicht\|Gangaufsicht]]
 #### Mittagsüberbrückung
 ist nicht Nachmittagsbetreuung ([[Q-Handbuch/TaBeHag\|TaBeHag]])
 Anwesenheiten kontrollieren, sofern vorhanden siehe Stundenplan
