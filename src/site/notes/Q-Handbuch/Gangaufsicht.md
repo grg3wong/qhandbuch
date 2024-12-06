@@ -11,5 +11,6 @@
 	* keine Handynutzung in der Unterstufe außer Stundenplan nachsehen
 * Toiletten beaufsichtigen
 
-* P1 bedeutet Parterre Aula und Gang zum kleinen Turnsaal
-* P2 bedeutet Parterre Gang von blauer Tür bis Musiksaal
+>[!info]
+>* P1 bedeutet Parterre Aula und Gang zum kleinen Turnsaal
+>* P2 bedeutet Parterre Gang von blauer Tür bis Musiksaal
