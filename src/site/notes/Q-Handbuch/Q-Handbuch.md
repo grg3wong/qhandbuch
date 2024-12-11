@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/q-handbuch/q-handbuch/","tags":["gardenEntry"]}
 ---
 
+> [!question] Fehlt was? Ist was zu ändern?
+Bitte Valentin kontaktieren!
 ### Prozesse:
 - [[Q-Handbuch/Onboarding\|Onboarding]]
 - [[Q-Handbuch/Projekttage\|Projekttage]]
