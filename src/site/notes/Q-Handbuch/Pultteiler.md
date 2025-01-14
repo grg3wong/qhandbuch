@@ -16,6 +16,7 @@ Ein Set gruppiert in jeweils einer Farbe (schwarz, blau, gelb weiß), zu je:
 > [!error]  Kaputt?
 > Kaputte Teile bitte auf den Platz von Agnes legen.
 
-https://www.tinkercad.com/things/2qHlRZKPD5Y/edit?returnTo=%2Fdashboard
+Beispielbild einer Tasche, einer Trennwand und einer Halterung (nicht im Maßstab) für gelb 2:
+![Pultteiler.png](/img/user/Pultteiler.png)
 
 ![Pultteiler_Buchen_.png](/img/user/Q-Handbuch/Pultteiler_Buchen_.png)
