@@ -4,7 +4,7 @@
 
 sind über [[Q-Handbuch/WebUntis\|WebUntis]] unter https://klio.webuntis.com/book-resource zu buchen.
 
-Ein Set gruppiert in jeweils einer Farbe (schwarz, blau, gelb weiß), zu je: 
+Ein Set gruppiert in jeweils einer Farbe (schwarz, blau, gelb, weiß), zu je: 
 * 15 Stück (1 Strich auf jeder Trennwand, roter Halterung & Sack) und 
 * 7 Stück (2 Striche auf jeder Trennwand, roter Halterung & Sack)
 
