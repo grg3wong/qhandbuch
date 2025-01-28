@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
+- [[Q-Handbuch/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
 - [[Q-Handbuch/Onboarding\|Onboarding]]
 - [[Q-Handbuch/Projekttage\|Projekttage]]
 - [[KlaKo-Tage\|KlaKo-Tage]]
