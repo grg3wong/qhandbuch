@@ -10,4 +10,4 @@ OCR für Texterkennung
 automatische Formaterkennung beim Einlagen der Dokumente im Metallgestell
 Zum Anpassen blauen Schrauben lockern
 
-volle Anleitung zum Kopieren: [[CANON_NEU.pdf]]
+volle Anleitung zum Kopieren: [CANON_NEU.pdf](https://drive.google.com/file/d/1f_aSJTiINlhu03o5x4B4N3M_e_p9-jis/view?usp=drive_link)
