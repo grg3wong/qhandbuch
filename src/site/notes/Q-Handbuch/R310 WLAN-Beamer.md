@@ -10,7 +10,7 @@ In der Suche „verbinden“ eingeben.
 
 Darauf klicken und Einstellungen – System – Bildschirm öffnet sich
 
-![R310_Beamer.png](/img/user/Q-Handbuch/R310_Beamer.png)
+![R310_Beamer.png](/img/user/Bilder/R310_Beamer.png)
 
 Unter mehrere Bildschirme neben „Mit drahtlosem Bildschirm verbinden“ auf Verbinden klicken.
 
