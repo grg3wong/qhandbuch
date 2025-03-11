@@ -12,4 +12,4 @@
     - Schüler/innen ohne anerkanntem Religionsbekenntnis, die einen Religionsunterricht besuchen haben hier ebenfalls ein X und haben in der Fachwahl zusätzlich das Freifach Religion (mit bestimmter Konfession). Dort bekommen sie eine Note.
 - Ethik in der Oberstufe: In Bezug auf Religion gilt alles wie oben. Teilnehmer/innen am Ethikunterricht haben zusätzlich in der Fachwahl den Pflichtgegenstand Ethik.
 - Ethik in der 1. Klasse: Hier gibt es keine Noten. Ethik ist in der 1. Klasse eine unverbindliche Übung. Alle Schüler/innen, die keinen Religionsunterricht haben, bekommen ein Teilgenommen in der UÜ "Ethik in der Unterstufe".  Wird vom Administrator eingetragen.
-![Sokrates_Religion_Ethik.png](/img/user/Sokrates_Religion_Ethik.png)
+![Sokrates_Religion_Ethik.png](/img/user/Bilder/Sokrates_Religion_Ethik.png)
