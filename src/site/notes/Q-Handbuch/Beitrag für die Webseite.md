@@ -41,4 +41,4 @@ Die Vorschau hilft bei der Entscheidung:
 
 Auf der rechten Seite den Galerie-Shortcode links anklicken, damit er kopiert wird
 ![WP_11_veröffentlichen.png](/img/user/Bilder/WP_11_ver%C3%B6ffentlichen.png)
-Schlussendlich nur noch den kopierten Shortcode als Text in Beitrag einfügen.
+Schlussendlich nur noch den kopierten Shortcode als Text in Beitrag einfügen und den Beitrag veröffentlichen bzw. aktualisieren.
