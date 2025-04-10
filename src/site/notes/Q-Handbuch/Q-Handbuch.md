@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
+* [[Net.FX\|Net.FX]]
 * [[Q-Handbuch/Beitrag für die Webseite\|Beitrag für die Webseite]]
 - [[Q-Handbuch/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
 - [[Q-Handbuch/Onboarding\|Onboarding]]
