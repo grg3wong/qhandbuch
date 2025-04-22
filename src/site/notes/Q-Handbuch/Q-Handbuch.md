@@ -17,7 +17,7 @@ Bitte Valentin kontaktieren!
 - [[Klassenteamkonferenz & Elternsprechtag\|Klassenteamkonferenz & Elternsprechtag]]
 - [[Fachteamkonferenz\|Fachteamkonferenz]]
 - [[Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
-- - [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
+- [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
 - [[Anmelden für die Schule\|Anmelden für die Schule]]
 - [[Zukunftswoche\|Zukunftswoche]]
 - Einsetzen von [[Q-Handbuch/Schule Plus\|Schule Plus]] (Peers, GeKo, Mobbing, ...)
