@@ -6,6 +6,6 @@
 
 Wir haben nun eine neue Prüfungsumgebung namens Net.FX.  
 Diese erlaubt im Unterricht Bildschirme der SuS anzuzeigen, zu sperren, Bildschirmnachrichten zu senden und im Prüfungsmodus Angaben & Abgaben inkl. Bildschirmaufzeichnungen zu managen.  
-Diese Software kommt auch bei der schriftlichen Reifeprüfung zum Einsatz, da die SuS auf Grund der geringen Computerkapazität in INFS1 u&d INFS3 ihr eigenes Gerät mitbringen dürfen (BYOD =Bring Your Own Device).  
+Diese Software kommt auch bei der schriftlichen Reifeprüfung zum Einsatz, da die SuS auf Grund der geringen Computerkapazität in INFS1 & INFS3 ihr eigenes Gerät mitbringen dürfen (BYOD =Bring Your Own Device).  
 Dazu müssen Sie zuvor eine Software installieren, die auch schon auf den Rechnern in INFS1 & INFS3 installiert ist.
 Wichtig für jene, die heuer eine schriftliche Klausur haben, alle anderen sind auch willkommen, da es ja für die übrigen Schularbeiten und im allgemeinen Unterricht nützlich sein kann.
