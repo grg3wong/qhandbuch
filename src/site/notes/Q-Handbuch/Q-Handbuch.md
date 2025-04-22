@@ -10,7 +10,7 @@ Bitte Valentin kontaktieren!
 * [[Q-Handbuch/Beitrag für die Webseite\|Beitrag für die Webseite]]
 * [[Q-Handbuch/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
 * [[Q-Handbuch/Onboarding\|Onboarding]]
-- [[Q-Handbuch/Projekttage\|Projekttage]]
+* [[Q-Handbuch/Projekttage\|Projekttage]]
 - [[KlaKo-Tage\|KlaKo-Tage]]
 - [[Kennenlerntage\|Kennenlerntage]]
 - [[Sportwochen\|Sportwochen]]
