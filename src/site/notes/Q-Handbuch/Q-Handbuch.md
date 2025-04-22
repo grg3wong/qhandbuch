@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
+* [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
 * [[Q-Handbuch/Net.FX\|Net.FX]]
 * [[Q-Handbuch/Beitrag für die Webseite\|Beitrag für die Webseite]]
 - [[Q-Handbuch/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
@@ -16,8 +17,7 @@ Bitte Valentin kontaktieren!
 - [[Klassenteamkonferenz & Elternsprechtag\|Klassenteamkonferenz & Elternsprechtag]]
 - [[Fachteamkonferenz\|Fachteamkonferenz]]
 - [[Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
-- [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
-- [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
+- - [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
 - [[Anmelden für die Schule\|Anmelden für die Schule]]
 - [[Zukunftswoche\|Zukunftswoche]]
 - Einsetzen von [[Q-Handbuch/Schule Plus\|Schule Plus]] (Peers, GeKo, Mobbing, ...)
