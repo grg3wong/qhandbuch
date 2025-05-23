@@ -5,7 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
-* [[Schriftliche Reifeprüfungen\|Schriftliche Reifeprüfungen]]
+* [[Q-Handbuch/Schriftliche Reifeprüfungen\|Schriftliche Reifeprüfungen]]
 * [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
 * [[Q-Handbuch/Net.FX\|Net.FX]]
 * [[Q-Handbuch/Beitrag für die Webseite\|Beitrag für die Webseite]]
