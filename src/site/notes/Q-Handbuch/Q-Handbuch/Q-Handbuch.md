@@ -22,7 +22,7 @@ Bitte Valentin kontaktieren!
 - [[Q-Handbuch/Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
 - [[Q-Handbuch/Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
 - [[Q-Handbuch/Anmelden für die Schule\|Anmelden für die Schule]]
-- [[Q-Handbuch/Zukunftswoche\|Zukunftswoche]]
+- [[Q-Handbuch/Q-Handbuch/Zukunftswoche\|Zukunftswoche]]
 - Einsetzen von [[Q-Handbuch/Q-Handbuch/Schule Plus\|Schule Plus]] (Peers, GeKo, Mobbing, ...)
 	- [[Q-Handbuch/Q-Handbuch/Gewaltprävention und Konfliktmanagement\|Gewaltprävention und Konfliktmanagement]]
 	- [[Q-Handbuch/Q-Handbuch/Peermediation\|Peermediation]]
