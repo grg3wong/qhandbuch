@@ -20,3 +20,9 @@
 8. mit Fingerabdruck, sofern eingerichtet, oder FIDO-Key bestätigen
 9. Sokrates-Startseite öffnet sich
    ![Pasted image 20250612102638.png|450](/img/user/Pasted%20image%2020250612102638.png)
+# Sokrates im Bildungsportal einrichten
+1. Im Bildungsportal runterscrollen bis "Bundesgymnasium" und "Lehrer/in" auf "Alle anzeigen" klicken
+   ![Pasted image 20250612103607.png|250](/img/user/Pasted%20image%2020250612103607.png)
+2. Stern zum Favorisieren von Sokrates wählen
+   ![Pasted image 20250612104039.png|250](/img/user/Pasted%20image%2020250612104039.png)
+3. 

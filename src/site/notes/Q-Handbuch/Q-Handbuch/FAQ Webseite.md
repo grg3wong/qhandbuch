@@ -13,7 +13,7 @@
 
 #### Stundenplan, Abwesenheit
 
-- Was ist [[Q-Handbuch/Q-Handbuch/WebUntis\|WebUntis]]?  
+- Was ist [[Q-Handbuch/Q-Handbuch/WebServices & Technik/WebUntis\|WebUntis]]?  
 #### Moodle
 
 - Ich kann mich nicht im [Moodle](https://moodle2.grg3.at/login/index.php) anmelden, obwohl mein Passwort stimmen sollte!  
