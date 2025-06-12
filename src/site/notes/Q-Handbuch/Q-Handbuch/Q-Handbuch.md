@@ -5,6 +5,8 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
+
+* [[Umgang mit Sehbehinderung\|Umgang mit Sehbehinderung]]
 * [[Q-Handbuch/Q-Handbuch/WebServices & Technik/Sokrates-Login\|Sokrates-Login]]
 * [[Q-Handbuch/Q-Handbuch/Krankmeldung\|Krankmeldung]]
 * [[Q-Handbuch/Q-Handbuch/Supplieren\|Supplieren]]
