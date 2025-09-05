@@ -13,4 +13,4 @@
 
 >[!info]
 >* P1 bedeutet Parterre Aula und Gang zum kleinen Turnsaal
->* P2 bedeutet Parterre Gang von blauer Tür bis Musiksaal
+>* P2 bedeutet Parterre Gang von blauer Tür bis zum Musiksaal
