@@ -3,7 +3,7 @@
 ---
 
 * zu Beginn der Pause starten
-* Ende sobald alle Klassen der Folgestunde Aufsicht haben
+* Ende sobald alle Klassen der Folgestunde Aufsicht haben (2-3 min nach Pausenende warten)
 	* Unterrichtende möglichst pünktlich zur Klasse, falls Gangaufsicht selber zum Unterricht muss
 * Fenster schließen
 * Handynutzung, Details  siehe [Hausordnung](https://www.grg3.at/hausordnung/)
