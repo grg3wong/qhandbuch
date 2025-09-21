@@ -8,17 +8,17 @@ Bitte Valentin kontaktieren!
 * [[Ausgangsmeldung\|Ausgangsmeldung]]
 * [[Epipen\|Epipen]]
 * [[Gangaufsicht bzw. Pausenaufsicht\|Gangaufsicht bzw. Pausenaufsicht]]
-* [[Bildschirm und Beamer\|Bildschirm und Beamer]]
-* [[Drucker und Kopierer\|Drucker und Kopierer]]
+* [[Q-Handbuch/Technik und Software/Bildschirm und Beamer\|Bildschirm und Beamer]]
+* [[Q-Handbuch/Technik und Software/Drucker und Kopierer\|Drucker und Kopierer]]
 * [[Umgang mit Sehbehinderung\|Umgang mit Sehbehinderung]]
-* [[Sokrates-Login\|Sokrates-Login]]
+* [[Q-Handbuch/Technik und Software/Sokrates-Login\|Sokrates-Login]]
 * [[Krankmeldung\|Krankmeldung]]
 * [[Supplieren\|Supplieren]]
 * [[Q-Handbuch/Schriftliche Reifeprüfungen\|Schriftliche Reifeprüfungen]]
 * [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
-* [[Q-Handbuch/Net.FX\|Net.FX]]
-* [[Q-Handbuch/Beitrag für die Webseite\|Beitrag für die Webseite]]
-* [[Q-Handbuch/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
+* [[Q-Handbuch/Technik und Software/Net.FX\|Net.FX]]
+* [[Q-Handbuch/Technik und Software/Beitrag für die Webseite\|Beitrag für die Webseite]]
+* [[Q-Handbuch/Technik und Software/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
 * [[Q-Handbuch/Onboarding\|Onboarding]]
 * [[Q-Handbuch/Projekttage\|Projekttage]]
 - [[KlaKo-Tage\|KlaKo-Tage]]
@@ -26,7 +26,7 @@ Bitte Valentin kontaktieren!
 - [[Sportwochen\|Sportwochen]]
 - [[Klassenteamkonferenz & Elternsprechtag\|Klassenteamkonferenz & Elternsprechtag]]
 - [[Fachteamkonferenz\|Fachteamkonferenz]]
-- [[Q-Handbuch/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
+- [[Q-Handbuch/KV/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
 - [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
 - [[Anmelden für die Schule\|Anmelden für die Schule]]
 - [[Zukunftswoche\|Zukunftswoche]]
@@ -35,7 +35,7 @@ Bitte Valentin kontaktieren!
 	- [[Q-Handbuch/Peermediation\|Peermediation]]
 	- [[Q-Handbuch/Verhaltenspyramide\|Verhaltenspyramide]]
 - KV-Mappe
-- Erhalten der Zugangsdaten für Microsoft Office, [[Q-Handbuch/WebUntis\|WebUntis]], [[Geräteinitiative\|Geräteinitiative]], ...
+- Erhalten der Zugangsdaten für Microsoft Office, [[Q-Handbuch/Technik und Software/WebUntis\|WebUntis]], [[Q-Handbuch/Technik und Software/Geräteinitiative\|Geräteinitiative]], ...
 - Drucken eines Zeugnisses
 - Durchführen einer Veranstaltung im Festsaal ([[Q-Handbuch/Konzertplanung\|Konzertplanung]], HageVO,...)
 - Buchen mehrstündiger Schularbeiten
