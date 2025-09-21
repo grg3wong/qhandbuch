@@ -3,7 +3,7 @@
 ---
 
 # Vorbereitung
-- [[Q-Handbuch/Net.FX\|Net.FX]] bei Verwendung von (BYOD)-Notebooks und Schulrechnern
+- [[Q-Handbuch/Technik und Software/Net.FX\|Net.FX]] bei Verwendung von (BYOD)-Notebooks und Schulrechnern
 - Sitzplan
 - Protokolle
 
