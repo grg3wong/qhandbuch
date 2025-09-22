@@ -5,6 +5,8 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Prozesse:
+* [[Q-Handbuch/Technik/Handynutzung\|Handynutzung]]
+* [[Q-Handbuch/ILB (Individuelle Lernbetreuung)\|ILB (Individuelle Lernbetreuung)]]
 * [[Q-Handbuch/Abschließende Arbeit\|Abschließende Arbeit]]
 * [[Q-Handbuch/Ausgangsmeldung\|Ausgangsmeldung]]
 * [[Q-Handbuch/Epipen\|Epipen]]
