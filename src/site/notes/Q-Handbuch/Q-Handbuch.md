@@ -9,26 +9,26 @@ Bitte Valentin kontaktieren!
 * [[Q-Handbuch/Ausgangsmeldung\|Ausgangsmeldung]]
 * [[Q-Handbuch/Epipen\|Epipen]]
 * [[Q-Handbuch/Gangaufsicht bzw. Pausenaufsicht\|Gangaufsicht bzw. Pausenaufsicht]]
-* [[Q-Handbuch/Technik und Software/Bildschirm und Beamer\|Bildschirm und Beamer]]
-* [[Q-Handbuch/Technik und Software/Drucker und Kopierer\|Drucker und Kopierer]]
+* [[Q-Handbuch/Technik/Bildschirm und Beamer\|Bildschirm und Beamer]]
+* [[Q-Handbuch/Technik/Drucker und Kopierer\|Drucker und Kopierer]]
 * [[Q-Handbuch/Umgang mit Sehbehinderung\|Umgang mit Sehbehinderung]]
-* [[Q-Handbuch/Technik und Software/Sokrates-Login\|Sokrates-Login]]
+* [[Q-Handbuch/Software und Web/Sokrates-Login\|Sokrates-Login]]
 * [[Q-Handbuch/Krankmeldung\|Krankmeldung]]
 * [[Q-Handbuch/Supplieren 1\|Supplieren 1]]
 * [[Q-Handbuch/Schriftliche Reifeprüfungen\|Schriftliche Reifeprüfungen]]
-* [[Q-Handbuch/Tag der offenen Tür\|Tag der offenen Tür]] 
-* [[Q-Handbuch/Technik und Software/Net.FX\|Net.FX]]
-* [[Q-Handbuch/Technik und Software/Beitrag für die Webseite\|Beitrag für die Webseite]]
-* [[Q-Handbuch/Technik und Software/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
+* [[Q-Handbuch/Schulveranstaltungen/Tag der offenen Tür\|Tag der offenen Tür]] 
+* [[Q-Handbuch/Software und Web/Net.FX\|Net.FX]]
+* [[Q-Handbuch/Software und Web/Beitrag für die Webseite\|Beitrag für die Webseite]]
+* [[Q-Handbuch/KV/KV Religion Schulnachricht\|KV Religion Schulnachricht]]
 * [[Q-Handbuch/Onboarding\|Onboarding]]
-* [[Q-Handbuch/Projekttage\|Projekttage]]
+* [[Q-Handbuch/Schulveranstaltungen/Projekttage\|Projekttage]]
 - [[KlaKo-Tage\|KlaKo-Tage]]
 - [[Kennenlerntage\|Kennenlerntage]]
 - [[Sportwochen\|Sportwochen]]
 - [[Klassenteamkonferenz & Elternsprechtag\|Klassenteamkonferenz & Elternsprechtag]]
 - [[Fachteamkonferenz\|Fachteamkonferenz]]
 - [[Q-Handbuch/KV/Typenwahl\|Typenwahl]] (2., 4. und 6. Klasse)
-- [[Q-Handbuch/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
+- [[Q-Handbuch/Schulveranstaltungen/Tag der Wiener Schulen\|Tag der Wiener Schulen]]
 - [[Anmelden für die Schule\|Anmelden für die Schule]]
 - [[Zukunftswoche\|Zukunftswoche]]
 - Einsetzen von [[Q-Handbuch/Schule Plus\|Schule Plus]] (Peers, GeKo, Mobbing, ...)
@@ -36,9 +36,9 @@ Bitte Valentin kontaktieren!
 	- [[Q-Handbuch/Peermediation\|Peermediation]]
 	- [[Q-Handbuch/Verhaltenspyramide\|Verhaltenspyramide]]
 - KV-Mappe
-- Erhalten der Zugangsdaten für Microsoft Office, [[Q-Handbuch/Technik und Software/WebUntis\|WebUntis]], [[Q-Handbuch/Technik und Software/Geräteinitiative\|Geräteinitiative]], ...
+- Erhalten der Zugangsdaten für Microsoft Office, [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]], [[Q-Handbuch/Technik/Geräteinitiative\|Geräteinitiative]], ...
 - Drucken eines Zeugnisses
-- Durchführen einer Veranstaltung im Festsaal ([[Q-Handbuch/Konzertplanung\|Konzertplanung]], HageVO,...)
+- Durchführen einer Veranstaltung im Festsaal ([[Q-Handbuch/Schulveranstaltungen/Konzertplanung\|Konzertplanung]], HageVO,...)
 - Buchen mehrstündiger Schularbeiten
 - Melden von Abweichungen vom Stundenplan
 - Maturatreffen für potentielle Hagenmüllervorlesungsgäste
