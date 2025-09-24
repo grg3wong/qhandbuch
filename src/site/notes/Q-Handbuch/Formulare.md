@@ -3,7 +3,7 @@
 ---
 
 - Wo finde ich das Formular zur **Anmeldung** zur Schule?  
-    [Hier](https://www.grg3.at/wp-content/uploads/2020/01/Anmeldung_Schule.pdf)[](https://docs.google.com/viewer?url=https%3A%2F%2Fwww.grg3.at%2Fwp-content%2Fuploads%2F2018%2F08%2FAnmeldung_GRG3.pdf&embedded=true&chrome=false&dov=1) gibt es Formular zum Ausdrucken.
+    [Hier](https://www.grg3.at/wp-content/uploads/2020/01/Anmeldung_Schule.pdf) gibt es Formular zum Ausdrucken.
 - Mein Kind ist in der 2., 4. bzw. 6. Klasse und muss sich für einen **Schultyp** ab der 3., 5. bzw. 7. Klasse anmelden. Wie macht man das?  
     [Hier](https://www.grg3.at/typenwahl/) ist ein Onlineformular dafür.
 - Wie kann ich mich für **Unverbindliche Übungen** (UÜ) anmelden?  
