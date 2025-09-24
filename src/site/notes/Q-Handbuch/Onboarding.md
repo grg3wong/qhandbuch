@@ -15,7 +15,7 @@ Mindestens einmal wöchentlich
 * Tafelordner Tafel löschen lassen
 * Tür versperren, falls letzte Einheit im Raum war (siehe WebUntis)
 * Sessel hoch nach letzter Unterrichtseinheit 
-#### [[Q-Handbuch/Gangaufsicht\|Gangaufsicht]]
+#### [[Gangaufsicht\|Gangaufsicht]]
 #### Mittagsüberbrückung
 ist nicht Nachmittagsbetreuung ([[Q-Handbuch/TaBeHag\|TaBeHag]])
 Anwesenheiten kontrollieren, sofern vorhanden siehe Stundenplan
