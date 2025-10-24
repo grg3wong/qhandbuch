@@ -17,6 +17,6 @@ Ein Set gruppiert in jeweils einer Farbe (schwarz, blau, gelb, weiß), zu je:
 > Kaputte Teile bitte auf den Platz von Agnes legen.
 
 Beispielbild einer Tasche, einer Trennwand und einer Halterung für gelb mit 2 Strichen:
-![Pultteiler.png](/img/user/Bilder/Pultteiler.png)
+![Pultteiler.png](/img/user/0%20Bilder/Pultteiler.png)
 
-![Pultteiler_Buchen_.png](/img/user/Bilder/Pultteiler_Buchen_.png)
+![Pultteiler_Buchen_.png](/img/user/0%20Bilder/Pultteiler_Buchen_.png)
