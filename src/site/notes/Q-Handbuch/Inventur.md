@@ -5,7 +5,7 @@
 24.10.2025 Einschulung in der Bildungsdirektion
 Handscanner über Bluetooth auf eigenem Handys des Sekretariats
 # Vorbereitung
-1. Julia exportiert Raumliste aus SAP in Excel
+1. Julia exportiert Raumliste aus SAP in [Excel-Tabelle]([Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/EW-ChZz_wvdEgxHDP9NdSy4Besrk62WINjlzQ1f4jQL9cA?e=hvJYEq))
 2. Kustos weist sich entsprechende Räume
 3. Kustos wählt Kalenderwoche(n) zum Buchen des Handscanners
 # Scannen als Kustos
