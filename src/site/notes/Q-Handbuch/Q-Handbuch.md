@@ -5,7 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
-* [[Q-Handbuch/Räume/Klassenräume mit Beamer\|Klassenräume mit Beamer]]
+* [[Q-Handbuch/Technik/Räume/Klassenräume mit Beamer\|Klassenräume mit Beamer]]
 * [[Q-Handbuch/Technik/Handynutzung\|Handynutzung]]
 * [[Q-Handbuch/Schule Plus/ILB (Individuelle Lernbetreuung)\|ILB (Individuelle Lernbetreuung)]]
 * [[Q-Handbuch/Abschließende Arbeit\|Abschließende Arbeit]]
