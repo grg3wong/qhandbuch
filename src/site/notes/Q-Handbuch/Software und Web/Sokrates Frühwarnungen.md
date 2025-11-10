@@ -14,6 +14,6 @@
 10. Zurück
 11. Drucken
 
-![Pasted image 20251021204737.png](/img/user/Pasted%20image%2020251021204737.png)
-![Pasted image 20251021204750.png](/img/user/Pasted%20image%2020251021204750.png)
-![Pasted image 20251021204806.png](/img/user/Pasted%20image%2020251021204806.png)
+![Sokrates_Frühwarnung_2.png](/img/user/0%20Bilder/Sokrates_Fr%C3%BChwarnung_2.png)
+![Sokrates_Frühwarnung.png](/img/user/0%20Bilder/Sokrates_Fr%C3%BChwarnung.png)
+![Pasted image 20251021204806.png](/img/user/0%20Bilder/Pasted%20image%2020251021204806.png)
