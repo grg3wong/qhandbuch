@@ -12,4 +12,4 @@ Falls kein Bild am PC-Bildschirm angezeigt wird:
 Hat der Beamer den Computer als Bildquelle?  
 Mit der Fernbedienung des Beamers die Source wählen. Meistens HDMI oder VGA.
 
-siehe auch [[Q-Handbuch/Räume/Klassenräume mit Beamer\|Klassenräume mit Beamer]]
+siehe auch [[Q-Handbuch/Technik/Räume/Klassenräume mit Beamer\|Klassenräume mit Beamer]]
