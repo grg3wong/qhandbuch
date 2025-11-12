@@ -14,4 +14,4 @@
 	- September
 	- fahren mit 7. Klassen mit nach Nizza, falls kleine Gruppe
 	- fahren als eigene Gruppe, falls größere Gruppe
-siehe auch [[Q-Handbuch/Schulveranstaltungen/SVA Anleitung\|SVA Anleitung]]
+siehe auch [[Q-Handbuch/Schulveranstaltungen/SVA Anleitung\|SVA Anleitung]] und [[Q-Handbuch/Schulveranstaltungen/IBAN\|IBAN]]
