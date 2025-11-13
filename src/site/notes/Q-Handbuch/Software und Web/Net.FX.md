@@ -14,3 +14,4 @@ Dazu müssen Sie zuvor eine Software installieren, die auch schon auf den Rechne
 gibt es auf Anfrage bei Valentin.
 
 [Anleitung](https://docs.google.com/presentation/d/e/2PACX-1vQX_oeYVp9KGx1azknDUnOF7eXMyGb42xPwxUQ0Mh8wizc7A-iObCuzIBn5HnlG05rRK7cIvuIXoBiy/pub?start=false&loop=false&delayms=3000) von Valentin
+grg3.at/netfx ist der Link für die Installationsanleitung, der an Schülerinnen und Schüler weitergegeben werden kann
