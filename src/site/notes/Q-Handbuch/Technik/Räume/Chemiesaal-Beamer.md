@@ -11,3 +11,4 @@
 3. auf "Verbinden" klicken
 4. Beim Beamer Source auf "LAN" setzen
 5. Von Beamer angezeigtes Passwort eingeben
+6. Nach der Benutzung App schließen, damit andere User es verwenden können.
