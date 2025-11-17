@@ -17,7 +17,7 @@ gibt es auf Anfrage bei Valentin.
 grg3.at/netfx ist der Link für die Installationsanleitung, der an Schülerinnen und Schüler weitergegeben werden kann
 
 # Probleme?
-Evtl ist bei Office-Programmen eine erneute Anmeldung mit dem Testaccount nötig.
-zB Test1234@grg3.at
-Dann evtl. (Word bzw. Excel schließen und neu öffnen)
-Bei der 2-Faktor-Authentifizierung auf "Setup überspringen" klicken.
+- Evtl ist bei Office-Programmen eine erneute Anmeldung mit dem Testaccount nötig. 
+  zB Test1234@grg3.at
+- Dann evtl. (Word bzw. Excel schließen und neu öffnen)
+- Bei der 2-Faktor-Authentifizierung auf "Setup überspringen" klicken.
