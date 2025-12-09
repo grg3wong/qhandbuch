@@ -43,6 +43,9 @@ Mitte/Ende Dezember & Ende Mai/Anfang Juni
 5. Dresscode bekanntgeben
 ##### 1 Woche vorher
 1. Reinigungspersonal informieren
+##### Aufführungstag
+Spendenkorbbetreuung
+Buffet (EV bzw. 8. Klassen) inkl. Reinigung danach
 ##### 1 Woche nachher
 1. Fotos und Videos sammeln
 2. Link zum Album versenden
