@@ -39,13 +39,17 @@ Mitte/Ende Dezember & Ende Mai/Anfang Juni
 1. Einladungen an Fachinspektor, Pensionierte, Kollegium, WebUntis, Webseite
 2. Entschuldigungsliste in KoZi-Mappe & Freistellungen für KollegInnen
 3. Zeitplan für Aufführungstag (Einlass, Chöre, Bands, Elternverein, Technik)
-4. Schulwart informieren
+4. Schulwart informieren + Bestuhlung (Auf- & Abbau) klären, Formular [[Q-Handbuch/Schulveranstaltungen/Festsaallogistik\|Festsaallogistik]] bei Schulwart abgeben
 5. Dresscode bekanntgeben
 ##### 1 Woche vorher
 1. Reinigungspersonal informieren
-##### Aufführungstag
+##### am Aufführungstag vor dem Konzert
+Schulglocke für Konzertzeit deaktivieren lassen
 Spendenkorbbetreuung
 Buffet (EV bzw. 8. Klassen) inkl. Reinigung danach
+##### am Aufführungstag nach dem Konzert
+
+
 ##### 1 Woche nachher
 1. Fotos und Videos sammeln
 2. Link zum Album versenden
