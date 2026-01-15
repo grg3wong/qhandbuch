@@ -4,19 +4,21 @@
 
 24.10.2025 Einschulung in der Bildungsdirektion für Julia und Valentin
 Handscanner über Bluetooth auf eigenem Handys des Sekretariats
-# Vorbereitung
+# Ablauf
 1. Raumliste aus SAP in [Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/IQBvgoWc_8L3RIMRwz_TXUsuAXrK5OtliDY5c0NX-I0C_XA?e=jojFms) öffnen
    (liegt in Kaffeekammerl/MitarbeiterInnen/Freigegeben)
-2. Kustos weist sich entsprechende Räume
-3. Kustos wählt Tage zum Buchen des Handscanners
-4. Handy und Handscanner im Sekretariat holen und zurückbringen
-# Handscanner
+2. Kustos weist sich entsprechende Räume (Tabellenblatt Raumliste, Spalte A)
+3. Kustos wählt Tage zum Buchen des Handscanners (Tabellenblatt Zeitplan)
+4. Handy und Handscanner am gebuchten Tag im Sekretariat holen
+5. Inventur durchführen
+6. am letzten gebuchten Tag zurückbringen
+### Handscanner
 ist über Bluetooth mit dem Handy verbunden
 1. langes Drücken auf oranger Taste schaltet Scanner ein, Ton abwarten
 2. Inventur-App starten
 3. +Button des Handscanners oder Handykamera
 schaltet sich nach Inaktivität ab
-# Scannen als Kustos
+# Scannen
 1. Standort wählen (903066)
 2. Raum (über Suchfeld) wählen bzw. über "+" in die Liste hinzufügen
 ![Inventur_Scan_1.jpg|150](/img/user/0%20Bilder/Inventur_Scan_1.jpg)![Inventur_Scan_5.jpg|150](/img/user/0%20Bilder/Inventur_Scan_5.jpg)![Inventur_Scan_4.jpg|150](/img/user/0%20Bilder/Inventur_Scan_4.jpg)![Inventur_Scan_2.jpg|150](/img/user/0%20Bilder/Inventur_Scan_2.jpg)
@@ -49,5 +51,5 @@ Wenn alle  Gegenstände bearbeitet wurden, erscheint ein Dialogfenster:
 Änderungen verwerfen über 3-Punkt-Menü des Items
 > [!warning] NIE auf Mistkübel drücken
 # Nachbearbeitung
-macht Julia:
+macht Julia
 in App oben: "Alle geladenen Dateien hochladen"
