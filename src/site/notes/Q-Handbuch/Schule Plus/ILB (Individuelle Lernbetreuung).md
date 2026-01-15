@@ -6,6 +6,8 @@ Alle Oberstufenschüler/innen haben im Zuge einer Frühwarnung die Möglichkeit,
 
 Die Lernbegleitung erfolgt gegenstandunabhängig und fokussiert v.a. auf methodisch-didaktische Anleitung und Beratung, Hilfe bei Planung von Lernsequenzen, Unterstützung bei der Lernorganisation, Motivationshilfe, etc.
 
+Ansprechpersonen:
+
 * Edith Kainz
 * Elisabeth Kluge
 * Katharina Kristament
@@ -13,3 +15,5 @@ Die Lernbegleitung erfolgt gegenstandunabhängig und fokussiert v.a. auf methodi
 * Eva Steinhauser
 * Branka Vujic
 * Ajse Zekiri
+
+Diese Info steht auch auf: https://www.grg3.at/ilb/
