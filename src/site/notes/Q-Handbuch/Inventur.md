@@ -5,24 +5,41 @@
 24.10.2025 Einschulung in der Bildungsdirektion
 Handscanner über Bluetooth auf eigenem Handys des Sekretariats
 # Vorbereitung
-1. Julia exportiert Raumliste aus SAP in [Excel-Tabelle]([Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/EW-ChZz_wvdEgxHDP9NdSy4Besrk62WINjlzQ1f4jQL9cA?e=hvJYEq))
+1. Julia exportiert Raumliste aus SAP in [Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/IQBvgoWc_8L3RIMRwz_TXUsuAXrK5OtliDY5c0NX-I0C_XA?e=jojFms) 
+   (liegt in Kaffeekammerl/MitarbeiterInnen/Freigegeben)
 2. Kustos weist sich entsprechende Räume
-3. Kustos wählt Kalenderwoche(n) zum Buchen des Handscanners
-# Scannen als Kustos
-1. langes Drücken auf oranger Taste schaltet Scanner ein
-2. App starten
+3. Kustos wählt Tage zum Buchen des Handscanners
+4. Handy und Handscanner im Sekretariat holen und zurückbringen
+# Handscanner
+ist über Bluetooth mit dem Handy verbunden
+1. langes Drücken auf oranger Taste schaltet Scanner ein, Ton abwarten
+2. Inventur-App starten
 3. +Button des Handscanners oder Handykamera
-4. Standort wählen (903066)
-5. Raum (über Suchfeld) wählen 
-6. jeden Gegenstand mit Barcode scannen
-7. Gegenstände mit Wert über 100€ erfassen (+ Neue Anlage erfassen)
-   -> erzeugt Ex-Nummer (Etikett wird später gedruckt)
-8. offene Gegenstände als Raumtransfer überprüfen oder Abgang melden
-9. Fehlende Etiketten von Julia drucken lassen
-10. Ausgedruckte Etiketten entsprechend anbringen
+schaltet sich nach Inaktivität ab
+# Scannen als Kustos
+1. Standort wählen (903066)
+2. Raum (über Suchfeld) wählen 
+## Gegenstand hat Barcodesticker und bleibt
+1. Gegenstand scannen
+	- Falls Gegenstand in anderen Raum registriert war, Raumwechsel bestätigen
+## Gegenstand hat keinen Sticker und bleibt
+1. Gegenstände mit Wert über 100€ erfassen (Neue Anlage erfassen: +-Icon rechts unten)
+2. Gegenstand benennen
+3. Ex-Nummer wird erzeugt (Etikett wird später gedruckt)
+## Gegenstand hat Sticker und wird ausgemustert bzw. ist nicht mehr da
+1. Checkbox "als Abgang erfassen" wählen
+2. Notizfeld befüllen, zB "weg"
+3. rechts oben auf "Erfassen" ->  rotes X erscheint links von Inventarnummer
+4. zurück
+## Fehler gemacht?
+Falls ein Gegenstand falsch markiert wurde, 
+kann man in der Listenübersicht über das 3-Punkte rechts die Änderung zurücksetzen
+## Rauminventur beenden
+Wenn alle  Gegenstände bearbeitet wurden, erscheint ein Dialogfenster:
+"Alle Anlagen erfasst"
 # in-App-Symbole 
-- grün = bestätigt (Gegenstand ist in diesem Raum)
-- rot = Abgang (Gegenstand wurde ausgemustert)
+- grünes Hakerl = bestätigt (Gegenstand ist in diesem Raum)
+- rotes X = Abgang (Gegenstand wurde ausgemustert)
 - ⇋ = Raumwechsel (Gegenstand einem anderen Raum zu ordnen)
 Änderungen verwerfen über 3-Punkt-Menü des Items
 > [!warning] NIE auf Mistkübel drücken
