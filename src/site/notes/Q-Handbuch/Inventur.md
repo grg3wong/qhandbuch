@@ -4,7 +4,6 @@
 
 24.10.2025 Einschulung in der Bildungsdirektion für Julia und Valentin
 Beginn Jänner 2026, Ende April 2026
-Handscanner über Bluetooth auf eigenem Handys des Sekretariats
 # Ablauf
 1. Raumliste aus SAP in [Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/IQBvgoWc_8L3RIMRwz_TXUsuAXrK5OtliDY5c0NX-I0C_XA?e=jojFms) öffnen
    (liegt in Kaffeekammerl/MitarbeiterInnen/Freigegeben)
