@@ -9,13 +9,14 @@ Handscanner über Bluetooth auf eigenem Handys des Sekretariats
    (liegt in Kaffeekammerl/MitarbeiterInnen/Freigegeben)
 2. Kustos weist sich entsprechende Räume (Tabellenblatt Raumliste, Spalte A)
 3. Kustos wählt Tage zum Buchen des Handscanners (Tabellenblatt Zeitplan)
-4. Handy und Handscanner am gebuchten Tag im Sekretariat holen
+4. Handy und Handscanner im Sekretariat holen
 5. Inventur durchführen
-6. am letzten gebuchten Tag zurückbringen
-### Handscanner
-ist über Bluetooth mit dem Handy verbunden
+6. Handscanner und aufgeladenes Handy für nächste Person zurückbringen
+### Handy und Handscanner
+Handscanner ist über Bluetooth mit dem Handy verbunden
+Entsperrmuster des Codes ist auf Schachtel
 1. langes Drücken auf oranger Taste schaltet Scanner ein, Ton abwarten
-2. Inventur-App starten
+2. Inventur-App (einzige App am Homescreen) starten
 3. +Button des Handscanners oder Handykamera
 schaltet sich nach Inaktivität ab
 # Scannen
