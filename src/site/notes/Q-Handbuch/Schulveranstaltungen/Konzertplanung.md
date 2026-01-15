@@ -41,19 +41,20 @@ Mitte/Ende Dezember & Ende Mai/Anfang Juni
 3. Zeitplan für Aufführungstag (Einlass, Chöre, Bands, Elternverein, Technik)
 4. Schulwart informieren + Bestuhlung (Auf- & Abbau) klären, Formular [[Q-Handbuch/Schulveranstaltungen/Festsaallogistik\|Festsaallogistik]] bei Schulwart abgeben
 5. Dresscode bekanntgeben
+6. Posts für Social Media planen
 ##### 1 Woche vorher
 1. Reinigungspersonal informieren
 ##### am Aufführungstag vor dem Konzert
 Schulglocke für Konzertzeit deaktivieren lassen
 Spendenkorbbetreuung
 Buffet (EV bzw. 8. Klassen) inkl. Reinigung danach
-##### am Aufführungstag nach dem Konzert
-
-
+##### am Tag nach dem Konzert
+Ausständiges wegräumen
 ##### 1 Woche nachher
 1. Fotos und Videos sammeln
-2. Link zum Album versenden
-3. für Nachbesprechung einkaufen
+2. Post auf Social Media planen
+3. Link zum Album versenden
+4. für Nachbesprechung einkaufen
 ##### Kosten 
 Elternverein macht Buffet
 Snacks für Nachbesprechung
