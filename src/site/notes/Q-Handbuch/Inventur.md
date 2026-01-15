@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/q-handbuch/inventur/"}
 ---
 
-24.10.2025 Einschulung in der Bildungsdirektion
+24.10.2025 Einschulung in der Bildungsdirektion für Julia und Valentin
 Handscanner über Bluetooth auf eigenem Handys des Sekretariats
 # Vorbereitung
-1. Julia exportiert Raumliste aus SAP in [Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/IQBvgoWc_8L3RIMRwz_TXUsuAXrK5OtliDY5c0NX-I0C_XA?e=jojFms) 
+1. Raumliste aus SAP in [Inventur_Scanner_Planung.xlsx](https://grg3.sharepoint.com/:x:/s/Kaffeekammerl2/IQBvgoWc_8L3RIMRwz_TXUsuAXrK5OtliDY5c0NX-I0C_XA?e=jojFms) öffnen
    (liegt in Kaffeekammerl/MitarbeiterInnen/Freigegeben)
 2. Kustos weist sich entsprechende Räume
 3. Kustos wählt Tage zum Buchen des Handscanners
