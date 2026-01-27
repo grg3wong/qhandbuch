@@ -27,6 +27,7 @@ schaltet sich nach Inaktivität ab
 ## Gegenstand hat Barcodesticker und bleibt
 1. Gegenstand scannen
 	- Falls Gegenstand in anderen Raum registriert war, Raumwechsel bestätigen
+	- Falls Sticker zu weit zum Scannen, Listeneintrag wählen und manuell erfassen
 
 ## Gegenstand hat keinen Sticker und bleibt
 1. Gegenstände mit Wert über 100€ erfassen (Neue Anlage erfassen: +-Icon rechts unten)
