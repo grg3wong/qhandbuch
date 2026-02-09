@@ -3,7 +3,7 @@
 ---
 
 bei Feueralarm udgl
-1. Über die WebUntis-App erscheint ein Benachrichtigung
+1. Über die [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]]-App erscheint ein Benachrichtigung
 2. Auf der Startseite der App erscheint unten ein neuer Menüpunkt.
 3. Alle SuS müssen erfasst werden.
    Bei Anwesenden, die sich am Sammelpunkt befinden: Sicher
