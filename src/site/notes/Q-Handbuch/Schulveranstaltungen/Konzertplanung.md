@@ -36,7 +36,7 @@ Mitte/Ende Dezember & Ende Mai/Anfang Juni
 ##### 2 Monate vorher 
 1. anfragen Elternverein, Fotograf, Videograf, Licht und Ton
 ##### 1 Monat vorher
-1. Einladungen an Fachinspektor, Pensionierte, Kollegium, WebUntis, Webseite
+1. Einladungen an Fachinspektor, Pensionierte, Kollegium, [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]], Webseite
 2. Entschuldigungsliste in KoZi-Mappe & Freistellungen für KollegInnen
 3. Zeitplan für Aufführungstag (Einlass, Chöre, Bands, Elternverein, Technik)
 4. Schulwart informieren + Bestuhlung (Auf- & Abbau) klären, Formular [[Q-Handbuch/Schulveranstaltungen/Festsaallogistik\|Festsaallogistik]] bei Schulwart abgeben
