@@ -8,7 +8,7 @@
 
 - Wo finde ich Formulare?  
     [Hier](https://www.grg3.at/formulare/) gibt es eine Übersicht von Formularen.
-- Wie kann sich mein Kind bei den digitalen Plattformen wie WebUntis und Mircosoft Office anmelden?  
+- Wie kann sich mein Kind bei den digitalen Plattformen wie [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]] und Mircosoft Office anmelden?  
     [Hier](https://www.grg3.at/wp-content/uploads/2024/09/EDV_Zugang_neue_Schueler-2024_mit_Passwoerter.pdf) gibt es ein Anleitung und Übersicht zu Benutzernamen.
 
 #### Stundenplan, Abwesenheit
