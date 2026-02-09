@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/teachers-direct/"}
 ---
 
-https://teachersdirect.bildung.gv.at. L
+über https://teachersdirect.bildung.gv.at oder das Bildungsportal
 ## Funktionalität: Anträge – Formulare Jänner 2026
 ### Abwesenheiten und Freistellungen
 - Ansuchen für einen Kur- bzw. Rehabilitationsaufenthalt
