@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
+* [[Q-Handbuch/Schulveranstaltungen/Kalender\|Kalender]]
 * [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]]
 * [[Evakuierung\|Evakuierung]]
 * [[TeachersDirect\|TeachersDirect]]
