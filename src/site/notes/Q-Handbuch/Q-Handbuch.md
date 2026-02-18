@@ -7,8 +7,8 @@ Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
 * [[Q-Handbuch/Schulveranstaltungen/Kalender\|Kalender]]
 * [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]]
-* [[Evakuierung\|Evakuierung]]
-* [[TeachersDirect\|TeachersDirect]]
+* [[Q-Handbuch/Software und Web/Evakuierung\|Evakuierung]]
+* [[Q-Handbuch/Software und Web/TeachersDirect\|TeachersDirect]]
 * [[Q-Handbuch/Inventur\|Inventur]]
 * [[Q-Handbuch/Software und Web/MathCAD\|MathCAD]]
 * [[Q-Handbuch/Technik/Räume/Chemiesaal-Beamer\|Chemiesaal-Beamer]]
