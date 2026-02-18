@@ -5,4 +5,4 @@
 Eintragen von Schularbeiten und Tests in [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]] unter Unterricht > Prüfungskalender
 auch Nichtprüfungstermine berücksichtigen, siehe grg3.at/termine
 
-![Pasted image 20260115204330.png](/img/user/Pasted%20image%2020260115204330.png)
+![WebUntis_Prüfungskalender.png](/img/user/0%20Bilder/WebUntis_Pr%C3%BCfungskalender.png)
