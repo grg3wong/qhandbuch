@@ -4,8 +4,11 @@
 
 # Vorbereitung
 1. Überweisen der (einzelnen) Posten an das Schulkonto
-	- IBAN: AT92 0100 0000 0523 2347
-	- Empfänger: GRG 3/Hag,Veranst. # (# wird vom Sekretariat bereitgestellt)
+	- IBAN: 
+	  AT92 0100 0000 0523 2347
+	- Empfänger: 
+	  GRG 3/Hag,Veranst. # 
+	  (# wird vom Sekretariat bereitgestellt)
 2. Überweisungsbestätigungen als PDF bereithalten
 3. Rechnungen einscannen und PDF bereithalten
 # Abrechnungsdaten eingeben
