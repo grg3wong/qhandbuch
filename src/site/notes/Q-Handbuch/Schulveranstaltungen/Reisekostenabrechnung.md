@@ -27,9 +27,9 @@
 7. Grund angeben ("Kostenzuordnung“ bzw. „Genehmiger/in“ nicht ändern)
    ![Reisegrund.png|150](/img/user/0%20Bilder/Reisegrund.png)
 8. Adresse angeben
-	1. PLZ in Gemeindekennz. eingeben
-	2. Ziel aus Routenplaner (mit Hausnummer suchen)
-	3. auf "<" klicken
+	- PLZ in Gemeindekennz. eingeben
+	- Ziel aus Routenplaner (mit Hausnummer suchen)
+	- auf "<" klicken
    ![Adresse.png|200](/img/user/0%20Bilder/Adresse.png)
 9. Tagesgebühr werden evtl. nicht sofort berechnet
     ![Tagesgebühr_berechnen.png|200](/img/user/0%20Bilder/Tagesgeb%C3%BChr_berechnen.png)
@@ -42,7 +42,7 @@ zB Bus, Übernachtung
 13. Betrag eingeben
 14. mit "<" zurück
 # Freigeben
-über "zum VG senden"
+15. über "zum VG senden"
 ![Pasted image 20260327111824.png|200](/img/user/0%20Bilder/Pasted%20image%2020260327111824.png)
 
 # Andere Anleitungen
