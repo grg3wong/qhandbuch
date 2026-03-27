@@ -22,7 +22,7 @@ schaltet sich nach Inaktivität ab
 # Scannen
 1. Standort wählen (903066)
 2. Raum (über Suchfeld) wählen bzw. über "+" in die Liste hinzufügen
-![Inventur_Scan_1.jpg|150](/img/user/0%20Bilder/Inventur_Scan_1.jpg)![Inventur_Scan_5.jpg|150](/img/user/0%20Bilder/Inventur_Scan_5.jpg)![Inventur_Scan_4.jpg|150](/img/user/0%20Bilder/Inventur_Scan_4.jpg)![Inventur_Scan_2.jpg|150](/img/user/0%20Bilder/Inventur_Scan_2.jpg)
+![[Inventur_Scan_1.jpg\|150]]![[Inventur_Scan_5.jpg\|150]]![[Inventur_Scan_4.jpg\|150]]![[Inventur_Scan_2.jpg\|150]]
 
 ## Gegenstand hat Barcodesticker und bleibt
 1. Gegenstand scannen
@@ -38,14 +38,14 @@ schaltet sich nach Inaktivität ab
 2. Notizfeld befüllen, zB "weg"
 3. rechts oben auf "Erfassen" ->  rotes X erscheint links von Inventarnummer
 4. zurück
-![Inventur_Scan_7.jpg|150](/img/user/0%20Bilder/Inventur_Scan_7.jpg)![Inventur_Scan_6.jpg|150](/img/user/0%20Bilder/Inventur_Scan_6.jpg)![Inventur_Scan_8.jpg|150](/img/user/0%20Bilder/Inventur_Scan_8.jpg)![Inventur_Scan_9.jpg|150](/img/user/0%20Bilder/Inventur_Scan_9.jpg)
+![[Inventur_Scan_7.jpg\|150]]![[Inventur_Scan_6.jpg\|150]]![[Inventur_Scan_8.jpg\|150]]![[Inventur_Scan_9.jpg\|150]]
 ## Fehler gemacht?
 Falls ein Gegenstand falsch markiert wurde, 
 kann man in der Listenübersicht über das 3-Punkte rechts die Änderung zurücksetzen
 ## Rauminventur beenden
 Wenn alle  Gegenstände bearbeitet wurden, erscheint ein Dialogfenster:
 "Alle Anlagen erfasst"
-![Inventur_Scan_3.jpg|150](/img/user/0%20Bilder/Inventur_Scan_3.jpg)
+![[Inventur_Scan_3.jpg\|150]]
 # in-App-Symbole 
 - grünes Hakerl = bestätigt (Gegenstand ist in diesem Raum)
 - rotes X = Abgang (Gegenstand wurde ausgemustert)
