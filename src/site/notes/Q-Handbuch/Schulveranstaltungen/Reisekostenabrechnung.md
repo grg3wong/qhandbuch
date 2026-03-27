@@ -47,7 +47,7 @@ zB Bus, Übernachtung
 
 # Andere Anleitungen
 ÖPU-Anleitung
-[[ÖPUWien-ESSstepbystep.pdf]]
+[ÖPUWien-ESSstepbystep.pdf](https://grg3-my.sharepoint.com/:b:/g/personal/valentin_wong_grg3_at/IQAcIXRZfe_OSp4TjP7GMfn4AY8MgEXNKV3yly9tYRBezA0?e=pL0lOG)
 
 Infovideos eines HAK-Direktors:  
 Einreichung von Abrechnungen: [https://ess1.hak.wien](https://ess1.hak.wien/ "https://ess1.hak.wien")  
