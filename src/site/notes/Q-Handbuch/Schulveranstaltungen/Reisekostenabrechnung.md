@@ -5,9 +5,9 @@
 # Vorbereitung
 1. Überweisen der (einzelnen) Posten an das Schulkonto
 	- IBAN: 
-	  AT92 0100 0000 0523 2347
+	  **AT92 0100 0000 0523 2347**
 	- Empfänger: 
-	  GRG 3/Hag,Veranst. # 
+	  **GRG 3/Hag,Veranst. #** 
 	  (# wird vom Sekretariat bereitgestellt)
 2. Überweisungsbestätigungen als PDF bereithalten
 3. Rechnungen einscannen und PDF bereithalten
@@ -20,7 +20,7 @@
    ![Reisekostenabrechnung.png|200](/img/user/0%20Bilder/Reisekostenabrechnung.png)
 4. "+"zur Erstellung einer neuen Abrechnung
    ![Abrechnung_neu.png|150](/img/user/0%20Bilder/Abrechnung_neu.png)
-5. "Schulveranst. Inl. § 49a" wählen, (nicht Inlandsreise)
+5. "**Schulveranst. Inl. § 49a**" wählen, (nicht Inlandsreise)
    ![Dienstreise_Inland.png|200](/img/user/0%20Bilder/Dienstreise_Inland.png)
    ![Dienstreise_49.png|200](/img/user/0%20Bilder/Dienstreise_49.png)
 6. Unternehmensspezif. Reiseart wählen:
