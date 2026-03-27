@@ -25,10 +25,10 @@
    ![Dienstreise_49.png|200](/img/user/0%20Bilder/Dienstreise_49.png)
 6. Unternehmensspezif. Reiseart wählen:
    zB Wintersportwoche Lehrer
-   ![Unternehmensspezif. Reiseart.png|150](/img/user/0%20Bilder/Unternehmensspezif.%20Reiseart.png)
+   ![Unternehmensspezif. Reiseart.png|200](/img/user/0%20Bilder/Unternehmensspezif.%20Reiseart.png)
    ![Reiseart_Wahl.png|200](/img/user/0%20Bilder/Reiseart_Wahl.png)
 7. Grund angeben ("Kostenzuordnung“ bzw. „Genehmiger/in“ nicht ändern)
-   ![Reisegrund.png|150](/img/user/0%20Bilder/Reisegrund.png)
+   ![Reisegrund.png|200](/img/user/0%20Bilder/Reisegrund.png)
 8. Adresse angeben
 	- PLZ in Gemeindekennz. eingeben
 	- Ziel aus Routenplaner (mit Hausnummer suchen)
