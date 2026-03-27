@@ -5,7 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
-* [[Q-Handbuch/Schulveranstaltungen/Reisekostenabrechnung\|Reisekostenabrechnung]]]]
+* [[Q-Handbuch/Schulveranstaltungen/Reisekostenabrechnung\|Reisekostenabrechnung]]
 * [[Q-Handbuch/Software und Web/Ticketsystem\|Ticketsystem]]
 * [[Q-Handbuch/Technik/Fire TV\|Fire TV]]
 * [[Q-Handbuch/Schulveranstaltungen/Kalender\|Kalender]]
