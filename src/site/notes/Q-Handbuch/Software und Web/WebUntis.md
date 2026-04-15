@@ -46,7 +46,7 @@ tatsächlich betreffen. Das vereinfacht die Ansicht schon in vielen Fällen.
         Bei Feil: Die Stunde ist rot und durchgestrichen
 ## 2. Fachsupplierung: 
    Dazu muss man sich selbst in den Einstellungen von [[Q-Handbuch/Software und Web/WebUntis\|WebUntis]] (Menü mit drei Punkten) das Häkchen bei "Fremdvertretungen" setzen. (Das ist jetzt neu!)  
-   ![WebUntis_Fremdvertretungen.png|150](/img/user/0%20Bilder/WebUntis_Fremdvertretungen.png)
+   ![[WebUntis_Fremdvertretungen.png\|150]]
 _**Beispiel:**_ Feiler ist krank. Informatik in der 5c wird von Wong suppliert.  
 Anzeige in WebUntis:   
     Bei Wong als Supplierstunde   
