@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
+* [[Q-Handbuch/Software und Web/eSquirrel\|eSquirrel]]
 * [[Q-Handbuch/Schulveranstaltungen/Reisekostenabrechnung\|Reisekostenabrechnung]]
 * [[Q-Handbuch/Software und Web/Ticketsystem\|Ticketsystem]]
 * [[Q-Handbuch/Technik/Fire TV\|Fire TV]]
