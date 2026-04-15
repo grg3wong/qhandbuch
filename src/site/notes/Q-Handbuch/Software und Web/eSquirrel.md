@@ -7,6 +7,8 @@
 
 [vollständige Anleitung für LehrerInnen](https://esquirrel.com/at/digital-unterrichten-mit-esquirrel/)
 # Vorbereitung
+- mit grg3-Emailadresse registrieren
+- All-Inklusiv-Lizenz aktivieren
 - Klassen anlegen
 - Schulstufen und Fächer entsprechend wählen
 - pro Kurs ist ein Buch gekoppelt
