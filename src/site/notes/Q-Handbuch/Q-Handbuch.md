@@ -5,6 +5,8 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzte aktualisierte Prozesse bzw. Seiten:
+* [[Q-Handbuch/KV/8. Klasse Abschluss\|8. Klasse Abschluss]]
+* [[Q-Handbuch/KV/digitales Zeugnis\|digitales Zeugnis]]
 * [[Q-Handbuch/Software und Web/eSquirrel\|eSquirrel]]
 * [[Q-Handbuch/Schulveranstaltungen/Reisekostenabrechnung\|Reisekostenabrechnung]]
 * [[Q-Handbuch/Software und Web/Ticketsystem\|Ticketsystem]]
