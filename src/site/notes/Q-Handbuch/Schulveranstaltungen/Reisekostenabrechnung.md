@@ -21,6 +21,7 @@
 4. "+"zur Erstellung einer neuen Abrechnung
    ![Abrechnung_neu.png|200](/img/user/0%20Bilder/Abrechnung_neu.png)
 5. "**Schulveranst. Inl. § 49a**" wählen, (nicht Inlandsreise)
+   evtl Ladevorgang abwarten, wenn Versuche kurz davor waren
    ![Dienstreise_Inland.png|200](/img/user/0%20Bilder/Dienstreise_Inland.png)
    ![Dienstreise_49.png|200](/img/user/0%20Bilder/Dienstreise_49.png)
 6. Unternehmensspezif. Reiseart wählen:
@@ -48,6 +49,16 @@ zB Bus, Übernachtung
 15. über "zum VG senden"
 ![Pasted image 20260327111824.png|200](/img/user/0%20Bilder/Pasted%20image%2020260327111824.png)
 
+# Fehlermeldungen
+## Unerlaubte Kombination von gesetzl. und unternehmensspez. Reiseart.
+![Pasted image 20260422123400.png|200](/img/user/Pasted%20image%2020260422123400.png)
+### Lösung
+"Unternehmensspezif. Reiseart" ändern auf
+"übr. mehrtä. Schulveranst"
+![Pasted image 20260422122920.png|200](/img/user/Pasted%20image%2020260422122920.png)
+es sollte so aussehen:
+"Dienstreise <> Tarif I / II"
+![Pasted image 20260422123006.png|200](/img/user/Pasted%20image%2020260422123006.png)
 # Andere Anleitungen
 ÖPU-Anleitung
 [ÖPUWien-ESSstepbystep.pdf](https://grg3-my.sharepoint.com/:b:/g/personal/valentin_wong_grg3_at/IQAcIXRZfe_OSp4TjP7GMfn4AY8MgEXNKV3yly9tYRBezA0?e=pL0lOG)
