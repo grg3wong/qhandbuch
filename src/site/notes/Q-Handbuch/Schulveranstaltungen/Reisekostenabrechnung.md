@@ -51,14 +51,14 @@ zB Bus, Übernachtung
 
 # Fehlermeldungen
 ## Unerlaubte Kombination von gesetzl. und unternehmensspez. Reiseart.
-![Pasted image 20260422123400.png|200](/img/user/Pasted%20image%2020260422123400.png)
+![Pasted image 20260422123400.png|200](/img/user/0%20Bilder/Pasted%20image%2020260422123400.png)
 ### Lösung
 "Unternehmensspezif. Reiseart" ändern auf
 "übr. mehrtä. Schulveranst"
-![Pasted image 20260422122920.png|200](/img/user/Pasted%20image%2020260422122920.png)
+![Pasted image 20260422122920.png|200](/img/user/0%20Bilder/Pasted%20image%2020260422122920.png)
 es sollte so aussehen:
 "Dienstreise <> Tarif I / II"
-![Pasted image 20260422123006.png|200](/img/user/Pasted%20image%2020260422123006.png)
+![Pasted image 20260422123006.png|200](/img/user/0%20Bilder/Pasted%20image%2020260422123006.png)
 # Andere Anleitungen
 ÖPU-Anleitung
 [ÖPUWien-ESSstepbystep.pdf](https://grg3-my.sharepoint.com/:b:/g/personal/valentin_wong_grg3_at/IQAcIXRZfe_OSp4TjP7GMfn4AY8MgEXNKV3yly9tYRBezA0?e=pL0lOG)
