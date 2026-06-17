@@ -17,7 +17,7 @@
 2. "Zu allen Anwendungen" gehen
    ![Serviceportal_alle_Anwendungen.png|200](/img/user/0%20Bilder/Serviceportal_alle_Anwendungen.png)
 3. "Reisekostenabrechnung" unter Reisemanagement wählen
-   ![Reisekostenabrechnung.png|200](/img/user/0%20Bilder/Reisekostenabrechnung.png)
+   ![[Reisekostenabrechnung.png\|200]]
 4. "+"zur Erstellung einer neuen Abrechnung
    ![Abrechnung_neu.png|200](/img/user/0%20Bilder/Abrechnung_neu.png)
 5. "**Schulveranst. Inl. § 49a**" wählen, (nicht Inlandsreise)
