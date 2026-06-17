@@ -11,5 +11,5 @@ bei Feueralarm udgl
    Ansonsten: Vermisst
    ![WebUntis_Notfall_2.png|200](/img/user/0%20Bilder/WebUntis_Notfall_2.png)
 4. Wenn alle erfasst wurden n/n (hier im Beispiel 13/13) dem Brandschutzbeauftragten der Schule melden, dass die Klasse erfasst wurde.
-   ![WebUntis_Notfall_1.png|200](/img/user/0%20Bilder/WebUntis_Notfall_1.png)
+   ![[WebUntis_Notfall_1.png\|200]]
 5. Notfallinformation gibt es über das Chatsymbol rechts oben.
