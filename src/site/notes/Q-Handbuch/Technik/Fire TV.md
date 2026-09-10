@@ -10,7 +10,7 @@ Im Chemiesaal und in der Expositur gibt es derzeit einen Testbetrieb mit einem F
 	   USB-Meldung mit dem **Esc**-Knopf wegdrücken
 3. mit der schwarzen Fire TV-Fernbedienung
 	1. 2-3 Sekunden die **==Home==**-Taste gedrückt ==**halten**==
-	2. "==**Bildschirm duplizieren**==" (evtl vorher **dreimal nach rechts** auf)
+	2. "==**Bildschirm duplizieren**==" (im CHS vorher **dreimal nach rechts**)
 	3. mit runden Knopf bestätigen
 4. am Computer
 	1. Windows-Taste **==⊞ + K**== drücken
