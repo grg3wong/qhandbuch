@@ -5,6 +5,8 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzt aktualisierte Prozesse bzw. Seiten:
+* [[Q-Handbuch/Software und Web/edu.FLOW/Kontrolle der Stammdaten in Edu.FLOW\|Kontrolle der Stammdaten in Edu.FLOW]]
+* [[Q-Handbuch/Software und Web/edu.FLOW/Frühwarnungen in EduFLOW\|Frühwarnungen in EduFLOW]]
 * [[1 nicht veröffentlicht/IT/Schlüsselsystem Erdbergstraße\|Schlüsselsystem Erdbergstraße]]
 * [[Q-Handbuch/KV/Mündliche Matura - Festsaal Aufbau & Ablauf\|Mündliche Matura - Festsaal Aufbau & Ablauf]]
 * [[Verhaltenskodex\|Verhaltenskodex]]
