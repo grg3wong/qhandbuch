@@ -5,6 +5,7 @@
 > [!question] Fehlt was? Ist was zu ändern?
 Bitte Valentin kontaktieren!
 ### Zuletzt aktualisierte Prozesse bzw. Seiten:
+* [[Büromaterial\|Büromaterial]]
 * [[Q-Handbuch/Software und Web/edu.SUITE/edu.PAY\|edu.PAY]]
 * [[Q-Handbuch/Gesundheit & Krankheit/Unfallmeldung\|Unfallmeldung]]
 * [[Q-Handbuch/Software und Web/edu.SUITE/Kontrolle der Stammdaten in Edu.FLOW\|Kontrolle der Stammdaten in Edu.FLOW]]
