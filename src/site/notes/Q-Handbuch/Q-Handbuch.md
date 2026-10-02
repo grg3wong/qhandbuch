@@ -10,7 +10,7 @@ Bitte Valentin kontaktieren!
 * [[Q-Handbuch/Gesundheit & Krankheit/Unfallmeldung\|Unfallmeldung]]
 * [[Q-Handbuch/Software und Web/edu.SUITE/Kontrolle der Stammdaten in Edu.FLOW\|Kontrolle der Stammdaten in Edu.FLOW]]
 * [[Q-Handbuch/Software und Web/edu.SUITE/Frühwarnungen in EduFLOW\|Frühwarnungen in EduFLOW]]
-* [[1 nicht veröffentlicht/IT/Schlüsselsystem Erdbergstraße\|Schlüsselsystem Erdbergstraße]]
+* [[Q-Handbuch/Technik/Schlüsselsystem Erdbergstraße\|Schlüsselsystem Erdbergstraße]]
 * [[Q-Handbuch/KV/Mündliche Matura - Festsaal Aufbau & Ablauf\|Mündliche Matura - Festsaal Aufbau & Ablauf]]
 * [[Verhaltenskodex\|Verhaltenskodex]]
 * [[Q-Handbuch/KV/8. Klasse Abschluss\|8. Klasse Abschluss]]
