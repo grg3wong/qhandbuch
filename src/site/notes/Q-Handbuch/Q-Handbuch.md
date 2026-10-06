@@ -47,7 +47,7 @@ Bitte Valentin kontaktieren!
 * [[Q-Handbuch/Onboarding\|Onboarding]]
 * [[Q-Handbuch/Schulveranstaltungen/Projekttage\|Projekttage]]
 - [[1 nicht veröffentlicht/KlaKo-Tage\|KlaKo-Tage]]
-- [[1 nicht veröffentlicht/Kennenlerntage\|Kennenlerntage]]
+- [[Q-Handbuch/Schulveranstaltungen/Kennenlerntage\|Kennenlerntage]]
 - [[1 nicht veröffentlicht/Sportwochen\|Sportwochen]]
 - [[1 nicht veröffentlicht/Klassenteamkonferenz & Elternsprechtag\|Klassenteamkonferenz & Elternsprechtag]]
 - [[1 nicht veröffentlicht/Fachteamkonferenz\|Fachteamkonferenz]]
