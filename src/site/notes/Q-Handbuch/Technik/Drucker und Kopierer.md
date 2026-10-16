@@ -14,7 +14,6 @@
 
 beim kleinen Canon reichen die ersten drei Buchstaben des eigenen Namens zum Filtern  
 OCR für Texterkennung
-
 ### großer Canon
 
 automatische Formaterkennung beim Einlagen der Dokumente im Metallgestell  
