@@ -14,7 +14,7 @@ Login mit Microsoft-Account auf https://edusuite.at/portal
 1. Titel definieren
    ![Pasted image 20260923224657.png](/img/user/0%20Bilder/Pasted%20image%2020260923224657.png)
 2. Status auf "Freigegeben" setzen, damit die Zahlung später bei den Eltern und EZB aufscheint
-   ![Pasted image 20260924124047.png](/img/user/Pasted%20image%2020260924124047.png)
+   ![Pasted image 20260924124047.png](/img/user/0%20Bilder/Pasted%20image%2020260924124047.png)
 3. Teilnehmer > Hinzufügen
    ![Pasted image 20260923224812.png](/img/user/0%20Bilder/Pasted%20image%2020260923224812.png)
 4. zB nach Klassen filtern
@@ -35,7 +35,7 @@ Login mit Microsoft-Account auf https://edusuite.at/portal
 11. rechts scrollbare Liste beachten
     ![Pasted image 20260923225811.png](/img/user/0%20Bilder/Pasted%20image%2020260923225811.png)
 12. Informationstyp "edu.FLOW" wählen
-    ![Pasted image 20260924124140.png](/img/user/Pasted%20image%2020260924124140.png)
+    ![Pasted image 20260924124140.png](/img/user/0%20Bilder/Pasted%20image%2020260924124140.png)
 13. Gleich informieren auf "Ja" setzen oder später aus edu.FLOW senden
 14. "Über Zahlungen informieren", um Mailversand zu starten
 15. Status einsehen
