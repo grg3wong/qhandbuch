@@ -17,7 +17,7 @@ Mindestens einmal wöchentlich
 * Sessel hoch nach letzter Unterrichtseinheit 
 #### [[Gangaufsicht\|Gangaufsicht]]
 #### Mittagsüberbrückung
-ist nicht Nachmittagsbetreuung ([[Q-Handbuch/TaBeHag\|TaBeHag]])
+ist nicht Nachmittagsbetreuung ([[Q-Handbuch/Unterricht und Pausen/TaBeHag\|TaBeHag]])
 Anwesenheiten kontrollieren, sofern vorhanden siehe Stundenplan
 
 #### TaBeHa
