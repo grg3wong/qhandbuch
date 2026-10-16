@@ -10,7 +10,7 @@ Fátima Peñalver Conesa
     - Aktuelle Ereignisse, die den Stundenplan beeinflussen
     - Aktueller Stundenplan
     - Aktueller Sprechstundenplan
-    - Prüfungs-/ Schularbeitskalender
+    - [[Q-Handbuch/Schulveranstaltungen/Prüfungskalender\|Prüfungs-/ Schularbeitskalender]]
     - Lehrstoffeintragungen
     - Abwesenheiten melden und Entschuldigungsformular drucken
 - Wie können Eltern einen WebUntis-Zugang anlegen?  
