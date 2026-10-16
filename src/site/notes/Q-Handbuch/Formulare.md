@@ -2,18 +2,8 @@
 {"dg-publish":true,"permalink":"/q-handbuch/formulare/"}
 ---
 
-- Wo finde ich das Formular zur **Anmeldung** zur Schule?  
-    [Hier](https://www.grg3.at/wp-content/uploads/2020/01/Anmeldung_Schule.pdf) gibt es Formular zum Ausdrucken.
-- Mein Kind ist in der 2., 4. bzw. 6. Klasse und muss sich für einen **Schultyp** ab der 3., 5. bzw. 7. Klasse anmelden. Wie macht man das?  
-    [Hier](https://www.grg3.at/typenwahl/) ist ein Onlineformular dafür.
-- Wie kann ich mich für **Unverbindliche Übungen** (UÜ) anmelden?  
-    Das Formular gibt es [hier](https://docs.google.com/forms/d/e/1FAIpQLSeXYEqg4T9vj5zON4co7aUJIq5Co6p9NvhW_SfOpY9F-MI3-A/viewform).
-- Wie kann ich mich für **Wahlpflichtfächer** anmelden?  
-    Es gibt ein [Formular für die Anmeldung zu Wahlpflichtgegenständen](https://docs.google.com/forms/d/e/1FAIpQLSelAs_95eFGi2uC7pOzjiExeXksvN4gl8oRg1gdQvgBfaTftQ/viewform?usp=sf_link) für SchülerInnen der fünften Klasse.
-- Wie kann ich mich für **muttersprachlichen Unterricht** anmelden?  
+-- Wie kann ich mich für **muttersprachlichen Unterricht** anmelden?  
     Auf der [Seite der Bildungsdirektion](https://schule-mehrsprachig.at/info-service/der-muttersprachliche-unterricht/anmeldeformulare) gibt es [Formulare](https://www.schule-mehrsprachig.at/info-service/der-muttersprachliche-unterricht/anmeldeformulare) für alle angebotenen Sprachen. Hier zum [Beispiel für Persisch mit Benotung](https://www.schule-mehrsprachig.at/fileadmin/Redaktion/Anmeldeformulare/mit_Benotung/persisch-mit.pdf). Kann aber für jede Sprache ausgefüllt und im Sekretariat abgegeben werden. Auf diesen Seiten finden Sie die [Vorbesprechungstermine](https://sfz-wien.at/images/sfz_img/download/ahs/2_Vorbespr-MU_23-24.pdf) und [Unterrichtszeiten](https://sfz-wien.at/images/sfz_img/download/mu/Standorte-Kurszeiten-MU_22-23.pdf).
-- Wo finde ich die **Notebook**-Vereinbarung?  
-    [Hier](https://www.grg3.at/wp-content/uploads/2018/11/NB_Vereinbarung_Unterschriften.pdf) ist die Notebook-Vereinbarung.
 - Wie kann ich mich für die Abschließende Arbeit anmelden?  
     [Hier](https://www.grg3.at/wp-content/uploads/2019/04/Bewerbung-f%C3%BCr-die-vorwissenschaftliche-Arbeit.docx) gibt es Bewerbungsschreiben für die ABA**.
 * Wie kann ich mich für die Abschließende Arbeit abmelden?  
