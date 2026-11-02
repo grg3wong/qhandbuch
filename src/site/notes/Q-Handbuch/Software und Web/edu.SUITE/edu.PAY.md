@@ -22,7 +22,7 @@ Login mit Microsoft-Account auf https://edusuite.at/portal
 5. alles auswählen und hinzufügen
    ![Pasted image 20260923225220.png](/img/user/0%20Bilder/Pasted%20image%2020260923225220.png)
 6. Bestätigungsmeldung abwarten
-   ![Pasted image 20260923225301.png](/img/user/0%20Bilder/Pasted%20image%2020260923225301.png)
+   ![[Pasted image 20260923225301.png\|Pasted image 20260923225301.png]]
 7. (Alle auswählen) und Betrag zuweisen
    ![Pasted image 20260923225410.png](/img/user/0%20Bilder/Pasted%20image%2020260923225410.png)
 8. Betrag eingeben und auf OK klicken
