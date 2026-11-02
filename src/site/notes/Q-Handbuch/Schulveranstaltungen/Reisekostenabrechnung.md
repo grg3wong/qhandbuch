@@ -20,17 +20,17 @@
 4. "Reisekostenabrechnung" unter Reisemanagement wählen
    ![[Reisekostenabrechnung.png\|200]]
 5. "+"zur Erstellung einer neuen Abrechnung
-   ![Abrechnung_neu.png|200](/img/user/0%20Bilder/Abrechnung_neu.png)
+   ![[Abrechnung_neu.png\|200]]
 6. "**Schulveranst. Inl. § 49a**" wählen, (nicht Inlandsreise)
    evtl Ladevorgang abwarten, wenn Versuche kurz davor waren
    ![Dienstreise_Inland.png|200](/img/user/0%20Bilder/Dienstreise_Inland.png)
    ![Dienstreise_49.png|200](/img/user/0%20Bilder/Dienstreise_49.png)
 7. Unternehmensspezif. Reiseart wählen:
    zB Wintersportwoche Lehrer
-   ![Unternehmensspezif. Reiseart.png|200](/img/user/0%20Bilder/Unternehmensspezif.%20Reiseart.png)
+   ![[Unternehmensspezif. Reiseart.png\|200]]
    ![Reiseart_Wahl.png|200](/img/user/0%20Bilder/Reiseart_Wahl.png)
 8. Grund angeben ("Kostenzuordnung“ bzw. „Genehmiger/in“ nicht ändern)
-   ![Reisegrund.png|200](/img/user/0%20Bilder/Reisegrund.png)
+   ![[Reisegrund.png\|200]]
 9. Adresse angeben
 	- PLZ in Gemeindekennz. eingeben
 	- Ziel aus Routenplaner (mit Hausnummer suchen)
@@ -48,7 +48,7 @@ zB Bus, Übernachtung
 14. mit "<" zurück
 # Freigeben
 15. über "zum VG senden"
-![Pasted image 20260327111824.png|200](/img/user/0%20Bilder/Pasted%20image%2020260327111824.png)
+![[Pasted image 20260327111824.png\|200]]
 
 # Fehlermeldungen
 ## Unerlaubte Kombination von gesetzl. und unternehmensspez. Reiseart.
