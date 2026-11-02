@@ -10,7 +10,7 @@ Benutzername ist vnachname bzw. vorname.nachname@grg3.at
 Über den Link am Ende des Footers [Anmelden](https://www.grg3.at/wp-admin) auf grg3.at
 ![WP_01_anmelden.png](/img/user/0%20Bilder/WP_01_anmelden.png)
 Wenn man angemeldet ist, sieht man eine zusätzliche schwarze Leiste am oberen Rand der Webseite:
-![WP_02_angemeldet.png](/img/user/0%20Bilder/WP_02_angemeldet.png)
+![[WP_02_angemeldet.png\|WP_02_angemeldet.png]]
 # Beitrag verfassen
 Über den Menüpunkt "+ Neu" > Beitrag
 ![WP_03_neuer_Beitrag.png](/img/user/0%20Bilder/WP_03_neuer_Beitrag.png)
