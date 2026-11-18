@@ -3,7 +3,7 @@
 ---
 
 1. Beurteilung
-2. Frühwarnungen zuweisen
+2. Frühwarnsystem -> Frühwarnungen zuordnen
 3. Klasse eingeben
 4. Suchen
 5. Schüler auswählen
